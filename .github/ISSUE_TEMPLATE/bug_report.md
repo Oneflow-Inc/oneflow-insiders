@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Prologue**
-- [] Please read the troubleshooting instructions
+- [ ] Please read the troubleshooting instructions
 
 **Describe the issue**
 A clear and concise description of what the bug is.
